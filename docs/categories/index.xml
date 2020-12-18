@@ -1,4 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Alejandro Quiros Pascual</title><link>https://kair0.es/categories/</link><description>Recent content in Categories on Alejandro Quiros Pascual</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Deployed by a Geek IT Guy</copyright><atom:link href="https://kair0.es/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo and Docker: Creating My Own Static Website</title><link>https://kair0.es/posts/hugo/first-idea/</link><pubDate>Wed, 20 May 2020 18:17:37 +0000</pubDate><guid>https://kair0.es/posts/hugo/first-idea/</guid><description>&lt;h2 id="main-idea">Main Idea&lt;/h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Alejandro Quiros Pascual</title><link>https://kair0.es/categories/</link><description>Recent content in Categories on Alejandro Quiros Pascual</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Deployed by a Geek IT Guy</copyright><atom:link href="https://kair0.es/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating My Own Static Website II</title><link>https://kair0.es/posts/hugo/deployment/</link><pubDate>Fri, 18 Dec 2020 21:11:00 +0000</pubDate><guid>https://kair0.es/posts/hugo/deployment/</guid><description>&lt;h2 id="cloudflare">Cloudflare&lt;/h2>
+&lt;p>Talking with a former colleague but great friend, &lt;a href="https://www.instagram.com/dmglife.es/"target="_blank">Dani&lt;/a>, about hardening security on websites, lower the access time and improve reliability he mentioned &lt;a href="https://www.cloudflare.com"target="_blank">Cloudflare&lt;/a> as a good service to obtain all that and at a low price (free).&lt;/p>
+&lt;p>I was skeptical at first because &amp;ldquo;there&amp;rsquo;s no such thing as free lunch&amp;rdquo;, but just when creating an account and looking at all the features that they give you for free changed my mind. I was able to configure a certificate for my domain for free, improve the delivery of my content with their cache and auto minifying to reduce the size of the source code, force to use HTTPS, enforce HSTS, increase the minimum TLS version to 1.2, enable TLS 1.3, configure automatic rewrites to HTTPS, without me having to configure anything in my nginx configuration. I even stopped my nginx and as my website is all static content Cloudflare&amp;rsquo;s cache served my website anyway.&lt;/p>
+&lt;blockquote>
+&lt;p>TL;DR so many cool features and there&amp;rsquo;s even more if you pay for other tiers.&lt;/p>
+&lt;/blockquote>
+&lt;p>So I knew that I wanted to use Cloudflare as proxy for my website.&lt;/p>
+&lt;p>This is a great service, because you can for free improve your security and performance just by puting a reverse proxy.&lt;/p></description></item><item><title>Creating My Own Static Website</title><link>https://kair0.es/posts/hugo/idea/</link><pubDate>Wed, 20 May 2020 18:17:37 +0000</pubDate><guid>https://kair0.es/posts/hugo/idea/</guid><description>&lt;h2 id="main-idea">Main Idea&lt;/h2>
 &lt;p>I wanted to create my own website. But writing code? Buff &amp;hellip; I only like to code to automate. Begin to remember HTML and CSS again to create a web isn&amp;rsquo;t funny and obiously JavaScript is forbidden.
 Doing my usually search of projects and technologies I came to a website with a lot of &amp;ldquo;good stuff&amp;rdquo;. Open Source technologies and projects, this website was &lt;a href="https://after-dark.habd.as/"target="_blank">https://after-dark.habd.as/&lt;/a>&lt;/p>
 &lt;blockquote>
@@ -8,13 +15,11 @@ Doing my usually search of projects and technologies I came to a website with a 
 &lt;blockquote>
 &lt;p>The world’s fastest framework for building websites&lt;/p>
 &lt;/blockquote>
-&lt;p>That&amp;rsquo;s it! Sounds powerful! Stay tuned to know how I did it.&lt;/p></description></item><item><title>About me</title><link>https://kair0.es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kair0.es/about/</guid><description>&lt;h2 id="short-description">Short Description&lt;/h2>
-&lt;p>I am a Spanish Linux Sysadmin. I like to learn, mainly new technologies and ways of working that I can apply to become a better technician. Passionate about automation and DevOps culture. I focus on doing my work right and secure, work out, travel and spend time with friends and family. I also love all kinds of music but live.&lt;/p>
-&lt;p>Sometimes I appear in videos of friends.
-&lt;a href="https://youtu.be/8i_-IsAKVxk"target="_blank">Here is one of them -a travel to Galicia-&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="work-experience">Work Experience&lt;/h2>
-&lt;h3 id="devops-engineer-and-system-administrator-072020---present">DevOps Engineer and System Administrator 07/2020 - Present&lt;/h3>
-&lt;h4 id="loriot-valencia-spain">LORIOT, Valencia (Spain)&lt;/h4>
-&lt;h3 id="linux-system-technician--13112016---072020">Linux System Technician 13/11/2016 - 07/2020&lt;/h3>
-&lt;h4 id="s2-grupo-valencia-spain">S2 Grupo, Valencia (Spain)&lt;/h4></description></item></channel></rss>
+&lt;p>That&amp;rsquo;s it! Sounds powerful! Stay tuned to know how I did it.&lt;/p></description></item><item><title>About me</title><link>https://kair0.es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kair0.es/about/</guid><description>&lt;h2 id="who-am-i">Who Am I&lt;/h2>
+&lt;p>I&amp;rsquo;m Alejandro, a geek guy from Valencia (Spain). I became passionate about Linux doing my practices and since then I&amp;rsquo;ve wanted to become a great Sysadmin. Along the way, I&amp;rsquo;ve learnt a lot, and I&amp;rsquo;ve got new passions, like automation or the &lt;a href="https://en.wikipedia.org/wiki/DevOps"target="_blank">DevOps culture&lt;/a>. Nowadays I even get attracted by coding -my sysadmin soul hurts when I say it out loud-.&lt;/p>
+&lt;p>I work as &amp;ldquo;DevOps Engineer and System Administrator&amp;rdquo; at &lt;a href="https://loriot.io/"target="_blank">LORIOT&lt;/a>&lt;/p>
+&lt;p>I do more things but these are the techie ones.&lt;/p>
+&lt;p>Bonus track: Here&amp;rsquo;s a video of an amazing trip I took with some former colleagues but great friends.
+&lt;a href="https://youtu.be/8i_-IsAKVxk"target="_blank">Galicia&lt;/a>&lt;/p>
+&lt;h2 id="about-this-blog">About this blog&lt;/h2>
+&lt;p>This site is a place to share little thoughts about the things that I try and that I found interesting to share. If you want to contact me here is my &lt;a href="https://www.linkedin.com/in/alejandroquirospascual/"target="_blank">LinkedIn&lt;/a> and &lt;a href="https://twitter.com/kair0w"target="_blank">Twitter&lt;/a>.&lt;/p></description></item></channel></rss>
