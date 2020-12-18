@@ -1,5 +1,5 @@
 ---
-title: "Hugo and Docker: Creating My Own Static Website"
+title: "Creating My Own Static Website"
 date: 2020-05-20T18:17:37Z
 draft: false
 ---
