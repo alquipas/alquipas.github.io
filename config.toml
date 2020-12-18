@@ -22,6 +22,9 @@ slogan = "This is fine"
 license = ""  # CC License
 fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
 
+[params.assets]
+css = ["css/font.css"]
+
 [params.profile]
 enable = true
 name = "Alejandro Quiros"
