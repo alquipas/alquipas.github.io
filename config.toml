@@ -17,7 +17,7 @@ noClasses = false
 [params]
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
-logo = "static/assets/img/thisisfine.png"  # if you have a logo png
+logo = "assets/img/thisisfine.png"  # if you have a logo png
 slogan = "This is fine"
 license = ""  # CC License
 fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
