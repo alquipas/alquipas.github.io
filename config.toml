@@ -1,0 +1,37 @@
+baseURL = "https://kair0.es"
+title = "Alejandro Quiros Pascual"
+author = "Alejandro Quiros Pascual"
+theme = "hugo-notepadium"
+copyright = "Deployed by a Geek IT Guy"
+
+languageCode = "en"
+
+enableRobotsTXT = true
+
+publishDir = "docs"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[params]
+style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
+logo = "static/assets/img/thisisfine.png"  # if you have a logo png
+slogan = "This is fine"
+license = ""  # CC License
+fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
+
+[params.profile]
+enable = true
+name = "Alejandro Quiros"
+github = "alquipas"
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
+
+[[params.nav.custom]]
+title = "Blog"
+url = "/posts"
+

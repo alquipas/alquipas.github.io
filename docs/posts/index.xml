@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alejandro Quiros Pascual</title><link>https://kair0.es/posts/</link><description>Recent content in Posts on Alejandro Quiros Pascual</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Deployed by a Geek IT Guy</copyright><lastBuildDate>Wed, 20 May 2020 18:17:37 +0000</lastBuildDate><atom:link href="https://kair0.es/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo and Docker: Creating My Own Static Website</title><link>https://kair0.es/posts/hugo/first-idea/</link><pubDate>Wed, 20 May 2020 18:17:37 +0000</pubDate><guid>https://kair0.es/posts/hugo/first-idea/</guid><description>&lt;h2 id="main-idea">Main Idea&lt;/h2>
+&lt;p>I wanted to create my own website. But writing code? Buff &amp;hellip; I only like to code to automate. Begin to remember HTML and CSS again to create a web isn&amp;rsquo;t funny and obiously JavaScript is forbidden.
+Doing my usually search of projects and technologies I came to a website with a lot of &amp;ldquo;good stuff&amp;rdquo;. Open Source technologies and projects, this website was &lt;a href="https://after-dark.habd.as/"target="_blank">https://after-dark.habd.as/&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>After Dark is open source software you can use to build a secure website, blog or app.&lt;/p>
+&lt;/blockquote>
+&lt;p>I though &amp;ldquo;Great!&amp;rdquo; the website mention all features, modules and projects used to create your own site and I started to take a look on them until I reach &lt;a href="https://gohugo.io/"target="_blank">HUGO&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>The world’s fastest framework for building websites&lt;/p>
+&lt;/blockquote>
+&lt;p>That&amp;rsquo;s it! Sounds powerful! Stay tuned to know how I did it.&lt;/p></description></item><item><title>About me</title><link>https://kair0.es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kair0.es/about/</guid><description>&lt;h2 id="short-description">Short Description&lt;/h2>
+&lt;p>I am a Spanish Linux Sysadmin. I like to learn, mainly new technologies and ways of working that I can apply to become a better technician. Passionate about automation and DevOps culture. I focus on doing my work right and secure, work out, travel and spend time with friends and family. I also love all kinds of music but live.&lt;/p>
+&lt;p>Sometimes I appear in videos of friends.
+&lt;a href="https://youtu.be/8i_-IsAKVxk"target="_blank">Here is one of them -a travel to Galicia-&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="work-experience">Work Experience&lt;/h2>
+&lt;h3 id="devops-engineer-and-system-administrator-072020---present">DevOps Engineer and System Administrator 07/2020 - Present&lt;/h3>
+&lt;h4 id="loriot-valencia-spain">LORIOT, Valencia (Spain)&lt;/h4>
+&lt;h3 id="linux-system-technician--13112016---072020">Linux System Technician 13/11/2016 - 07/2020&lt;/h3>
+&lt;h4 id="s2-grupo-valencia-spain">S2 Grupo, Valencia (Spain)&lt;/h4></description></item></channel></rss>
